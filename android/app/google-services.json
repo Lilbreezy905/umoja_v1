@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792156170148",
+    "project_id": "cloud-umoja",
+    "storage_bucket": "cloud-umoja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792156170148:android:06c14406cbdc8f46bcc331",
+        "android_client_info": {
+          "package_name": "com.example.umoja_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvM_BBzbkSCUjxWgzsgeHbH1WTaqcP8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
